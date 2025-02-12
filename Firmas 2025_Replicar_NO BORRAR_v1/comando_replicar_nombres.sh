@@ -1,4 +1,4 @@
-#Modificación de firmas
+#Modificación de textos en firmas
 
 nombre="Nombre"
 puesto="Puesto"
